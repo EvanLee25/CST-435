@@ -6,5 +6,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+<<<<<<< HEAD
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+=======
+>>>>>>> 7522ce90edf1d58ebb4a30eb39f141bcf05b3853
